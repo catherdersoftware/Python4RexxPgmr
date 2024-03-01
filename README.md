@@ -1,2 +1,3 @@
 # Python4RexxPgmr
-Presentations &amp; sample files from my (and David Crayford's) "Python For The Rexx Programmer" presentation
+
+Here you may find the presentations (in various flavors, depending on venue) of my and David Crayford's "Python For The Rexx Programmer" presentations, as well as the sample programs used in slides and demonstrations.
